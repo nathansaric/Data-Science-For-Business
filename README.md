@@ -1,1 +1,1 @@
-# Data-Science-For-Business
+# Data Science For Business
